@@ -1,0 +1,9 @@
+# OS or Editor files
+.DS_Store
+Thumbs.db
+
+# cache, log, debug file
+*.diff
+*.err
+*.log
+*.sass-cache
