@@ -1,7 +1,7 @@
 {
 	"bold_folder_labels": true,
 	"caret_extra_width": 2,
-	"color_scheme": "Packages/Monokai Extended/Monokai Extended Bright.tmTheme",
+	"color_scheme": "Packages/Theme - Afterglow/Afterglow-monokai.tmTheme",
 	"draw_white_space": "all",
 	"ensure_newline_at_eof_on_save": true,
 	"folder_exclude_patterns":
@@ -15,7 +15,7 @@
 		"cache"
 	],
 	"font_face": "Inconsolata",
-	"font_size": 18.0,
+	"font_size": 19.0,
 	"highlight_line": true,
 	"highlight_modified_tabs": true,
 	"ignored_packages":
@@ -30,7 +30,13 @@
 	},
 	"tab_size": 2,
 	"tabs_small": true,
-	"theme": "Brogrammer.sublime-theme",
+	"sidebar_size_12": true,
+	"sidebar_row_padding_large": true,
+	"status_bar_brighter": true,
+	"tabs_medium": true,
+	"color_inactive_tabs": true,
+	"tabs_padding_medium": true,
+	"theme": "Afterglow-blue.sublime-theme",
 	"translate_tabs_to_spaces": true,
 	"trim_trailing_white_space_on_save": true,
 	"word_wrap": true
